@@ -7,6 +7,9 @@ everything is in public/index.html and public/assets
 ## Examples
 - https://labs.phaser.io/index.html
 
+## References
+- https://github.com/digitsensitive/phaser3-typescript
+
 # See the game
 - `npm start`
 - open http://localhost:3000 
