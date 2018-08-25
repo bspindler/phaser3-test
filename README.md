@@ -9,6 +9,7 @@ everything is in public/index.html and public/assets
 
 ## References
 - https://github.com/digitsensitive/phaser3-typescript
+- https://tonejs.github.io/
 
 # See the game
 - `npm start`
